@@ -1,0 +1,9 @@
+{
+  "Kafkaconfig": {
+    "BootstrapServers": "pkc-p11xm.us-east-1.aws.confluent.cloud:9092",
+    "SaslUsername": "T4VMAMDWI4DGIY3I",
+    "SaslPassword": "tO5hnzQCkBz6MjNwuvmbbZ3CyOuFakc02k45SoOVmPGqvGwrXStn0lXa8tEmjTCY",
+    "SslCaLocation": "probe"
+
+  }
+}
